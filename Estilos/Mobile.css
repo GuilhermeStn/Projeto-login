@@ -1,0 +1,70 @@
+/* Mobile Frist  */
+
+body{
+    background-color: rgb(189, 189, 189);
+    font-family: sans-serif;
+    background-repeat: no-repeat;
+    background-position: center right ;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+img{
+    background-repeat: no-repeat;
+    background-position: center right ;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 50vw;
+    border-radius: 8px;
+}
+
+header > h1 {
+    text-align: center;
+    font-weight: 300;
+    font-size:1.em;
+    font-style: normal;
+    font-weight: bolder;
+    color:rgb(228, 222, 212);
+}
+
+
+main{
+    margin-top: 20px;
+    margin: auto;
+    background-color: rgba(87, 87, 189, 0.062);
+    width: 60vw;
+}
+
+main > section{
+    padding-top: 10px;
+    margin: auto;
+    text-align: center;
+    background-color: rgba(74, 89, 90, 0.137);
+    padding: 10px;
+    font-size: small;
+    border-radius: 20px;
+}
+
+input{
+    margin-bottom: 3.3px;
+    border-radius: 8px;
+    width:30vw;
+}
+
+button{
+    width:30vw;
+    border-radius: 8px;
+    margin-bottom: 3px;
+    margin-top: 3px;
+}
+
+
+footer{
+    text-align: center;
+    display: block;
+    margin:bottom;
+}
+
+p{
+    color:whitesmoke;
+}
